@@ -1,1 +1,1 @@
-Failo fileA.txt turinys.
+Failo A turinys pakeistas.
